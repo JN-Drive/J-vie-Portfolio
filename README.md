@@ -1,3 +1,7 @@
+<div align="center">
+  <img height="150" src="https://cdn.dribbble.com/userupload/23120108/file/original-69aef49741307f10b2600bde3e86b205.gif"  />
+</div>
+
 # 🎮 J-vie A. Nogodula
 
 ### Bridging Gaming Passion with Quality Assurance
@@ -45,5 +49,7 @@ I aim to bridge my passion for game development with my commitment to quality, s
 - **Email:** [jvienogodula0501@gmail.com]  
 
 ---
+
+<img src="https://raw.githubusercontent.com/JN-Drive/JN-Drive/output/snake.svg" alt="Snake animation" />
 
 > *“Great games aren’t just made — they’re tested, refined, and polished until they shine.”*
