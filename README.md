@@ -50,6 +50,4 @@ I aim to bridge my passion for game development with my commitment to quality, s
 
 ---
 
-<img src="https://raw.githubusercontent.com/JN-Drive/JN-Drive/output/snake.svg" alt="Snake animation" />
-
 > *“Great games aren’t just made — they’re tested, refined, and polished until they shine.”*
